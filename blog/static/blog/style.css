@@ -1,0 +1,17 @@
+body {
+    background: white url("images/background.gif") no-repeat;
+    font-family: arial, sans-serif;
+    }
+    h1 {
+    color: orange;
+    }
+    p {
+    border-style: solid;
+    border-color: green;
+    border-width: 10px;
+    }
+    a {
+    color: red;
+    text-decoration: none;
+    background-color: lightpink;
+    }
